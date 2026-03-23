@@ -5,7 +5,7 @@ I am a Computer Science student and developer passionate about the intersection 
 ### 🔭 What I'm working on
 - 🧠 Learning Backend on Java Springboot and exploring & unnderstanding the full layered architecture of client->controller->service->repository->database
 - 🧠 Trying to mimic **Transformer models** and exploring Tokenization algorithms (BPE).
-- ⚡ Solving competitive programming challenges & DSA Problems (Active on [Codeforces](https://codeforces.com/profile/AbHiGyan_NoBC), [LeetCode](https://leetcode.com/u/AbHiGyan-NoBC/) & [CodeChef](https://www.codechef.com/users/abhigyan_nobc).
+- ⚡ Solving competitive programming challenges & DSA Problems (Active on [Codeforces](https://codeforces.com/profile/AbHiGyan_NoBC) & [LeetCode](https://leetcode.com/u/AbHiGyan-NoBC/)
 
 ### 🛠️ Tech Stack
 | Domain | Technologies |
