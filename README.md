@@ -21,7 +21,7 @@ I am a Computer Science student and developer passionate about the intersection 
 ### 🌱 Currently Learning
 - **Backend:** Learning how backend systems connect to the users.
 - **DSA:** Deeply exploring the Computer Science Domain and the various data structures (exisiting and user-defined) and algorithms used in practical tasks.
-- **Machine Learning/Deep Learning:**: Learning the different and important supervised algorithms: SVM, Naive Baye's, Decision trees, Bagging and Boosting algorithms... 
+- **Machine Learning/Deep Learning:**: Learning the different ML Unsupervised algorithms
 - **Generative AI:** Understanding the architecture of LLMs.
 
 ### 📫 Connect with me
