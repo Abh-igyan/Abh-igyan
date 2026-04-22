@@ -98,10 +98,8 @@
 
 ## 🎯 Current Focus
 
-- 🚀 High-performance backend systems  
+- 🚀 High-performance backend systems & Java Development 
 - 📊 Quant + ML systems  
-- 🤖 Agentic AI architectures  
-- 🛰️ ROS2 & robotics  
 
 ---
 
