@@ -11,7 +11,6 @@
 - 🔧 I love **low-level systems + performance optimization**
 - 📊 Exploring **quantitative finance + ML systems**
 - 🤖 Interested in **agentic AI & real-time analytics**
-- 🛰️ Working with **ROS2 & robotics systems**
 - 🏆 Competitive programmer & open-source contributor
 
 ---
@@ -36,7 +35,7 @@
 
 ## 🚀 Projects
 
-### 🔥 TitanDB – High-Performance KV Store
+### 🔥 TitanDB – High-Performance KV Store [Repo](https://github.com/Abh-igyan/TitanDB)
 📌 C++, Systems Programming  
 
 - ⚡ O(1) lookups using in-memory hash index  
@@ -48,7 +47,7 @@
 
 ---
 
-### 🌐 TrafficTalk – AI Network Monitoring Assistant
+### 🌐 TrafficTalk – AI Network Monitoring Assistant [Repo](https://github.com/Abh-igyan/TrafficTalk-The-AI-Network-Monitoring-Assistant)
 📌 Python, Redis, LLMs  
 
 - 📊 Real-time network traffic analysis  
@@ -61,8 +60,8 @@
 
 ### 📈 Quant Projects
 
-- 💹 **Quantitative FX Engine**
-- 📊 **Cross-Asset Portfolio Optimization**
+- 💹 [**Quantitative FX Engine**](https://github.com/Abh-igyan/FXStatArb)
+- 📊 [**Cross-Asset Portfolio Optimization**](https://github.com/Abh-igyan/CAPO)
 
 
 ---
