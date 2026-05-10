@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abhigyan Tiwari
 
 🚀 CSE Undergraduate @ NIT Silchar  
-💻 Systems Engineering • Backend • Quant • AI  
+💻 Systems Engineering • Backend • Quant 
 ⚡ Building high-performance systems & intelligent applications  
 
 ---
@@ -9,7 +9,7 @@
 ## 🧠 About Me
 
 - 🔧 I love **low-level systems + performance optimization**
-- 📊 Exploring **quantitative finance + ML systems**
+- 📊 Exploring **Backend Engineering & quantitative finance**
 - 🤖 Interested in **agentic AI & real-time analytics**
 - 🏆 Competitive programmer & open-source contributor
 
