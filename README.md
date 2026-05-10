@@ -20,7 +20,6 @@
 ### 💻 Languages
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
@@ -35,6 +34,19 @@
 
 ## 🚀 Projects
 
+### Concurrent Job Queue Dashboard [Repo](https://github.com/Abh-igyan/CPP-thread-pool) | [Live Demo](https://concurrent-job-queue-dashboard.onrender.com/)
+📌 FastAPI, React, TypeScript, WebSockets, Docker
+
+- Built a real-time concurrent job processing system with worker pools, bounded queues, retries, and backpressure
+control
+- Visualized live metrics including throughput, queue depth, worker utilization, latency, and failures via WebSockets
+- Benchmarked scaling across workloads and worker counts to analyze synchronization overhead and contention
+bottlenecks
+- Dockerized and deployed the full-stack application with structured logging and Prometheus-style metrics.
+
+
+---
+
 ### 🔥 TitanDB – High-Performance KV Store [Repo](https://github.com/Abh-igyan/TitanDB)
 📌 C++, Systems Programming  
 
@@ -42,8 +54,6 @@
 - 💾 Disk-backed storage with fixed-width records  
 - 🧱 Inspired by Bitcask architecture  
 - 🔄 Log compaction + crash recovery  
-
-
 
 ---
 
