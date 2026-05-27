@@ -34,7 +34,7 @@
 
 ## 🚀 Projects
 
-### Concurrent Job Queue Dashboard [Repo](https://github.com/Abh-igyan/CPP-thread-pool) | [Live Demo](https://concurrent-job-queue-dashboard.onrender.com/)
+### Concurrent Job Queue Dashboard [Repo](https://github.com/Abh-igyan/Concurrent-Job-Queue-Dashboard) | [Live Demo](https://concurrent-job-queue-dashboard.onrender.com/)
 📌 FastAPI, React, TypeScript, WebSockets, Docker
 
 - Built a real-time concurrent job processing system with worker pools, bounded queues, retries, and backpressure
