@@ -34,6 +34,23 @@
 
 ## 🚀 Projects
 
+### Vahini: Distributed Benchmarking & Hosting Platform [Repo](https://github.com/Abh-igyan/Distributed-Benchmarking-Hosting-Platform) | [Live Demo](http://vahini.duckdns.org:5173/)
+📌 FastAPI, Go, Docker, AWS EC2, Postgres RDS
+
+- Designed and deployed a distributed trading-engine evaluation platform on AWS, supporting automated
+correctness validation and large-scale performance benchmarking.
+- Built a secure containerized execution environment using Docker and gVisor for safe execution of untrusted
+participant code.
+- Developed a distributed Go benchmarking framework capable of generating realistic market traffic and
+sustaining 1.3K+ TPS under 1,000 concurrent traders.
+- Implemented a FastAPI orchestration service for worker coordination, benchmark scheduling, metrics
+aggregation, and automated scoring.
+- Created a real-time competitive leaderboard system using PostgreSQL and WebSockets for live ranking and
+benchmark analytics.
+
+---
+
+
 ### Concurrent Job Queue Dashboard [Repo](https://github.com/Abh-igyan/Concurrent-Job-Queue-Dashboard) | [Live Demo](https://concurrent-job-queue-dashboard.onrender.com/)
 📌 FastAPI, React, TypeScript, WebSockets, Docker
 
