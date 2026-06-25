@@ -20,7 +20,7 @@
 ### 💻 Languages
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-
+![GO](https://img.shields.io/badge/go-white?style=for-the-badge&logo=go)
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 ![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis)
@@ -50,17 +50,19 @@ benchmark analytics.
 
 ---
 
+### ParivahanSaathi — AI Traffic Planning Engine [Repo](https://github.com/Abh-igyan/Distributed-Benchmarking-Hosting-Platform) | [Live Demo](http://vahini.duckdns.org:5173/)
+📌 FastAPI, CatBoost, OSMnx, NetworkX, AWS, Mappls APIs   
 
-### Concurrent Job Queue Dashboard [Repo](https://github.com/Abh-igyan/Concurrent-Job-Queue-Dashboard) | [Live Demo](https://concurrent-job-queue-dashboard.onrender.com/)
-📌 FastAPI, React, TypeScript, WebSockets, Docker
-
-- Built a real-time concurrent job processing system with worker pools, bounded queues, retries, and backpressure
-control
-- Visualized live metrics including throughput, queue depth, worker utilization, latency, and failures via WebSockets
-- Benchmarked scaling across workloads and worker counts to analyze synchronization overhead and contention
-bottlenecks
-- Dockerized and deployed the full-stack application with structured logging and Prometheus-style metrics.
-
+- Built a production-ready ML-driven traffic intelligence system for Bengaluru using 8K+ traffic incidents, enabling congestion 
+prediction, incident impact estimation, and intelligent diversion planning at city scale. 
+- Architected a modular multi-stage inference pipeline: feature engineering → closure probability prediction → impact scoring → 
+response recommendation → diversion routing. 
+- Optimized city-scale routing by partitioning Bengaluru into 56 OSM road graphs with two-level lazy loading, reducing active 
+memory usage by 94% (4.8 GB → 280 MB) while achieving sub-150 ms warm route generation. 
+- Implemented diversion route search using KD-tree spatial indexing + Dijkstra's algorithm, and validated selected routes using 
+Mappls traffic-aware APIs for real-time ETA and distance estimation. 
+- Built closed-loop feedback system, capturing post-incident outcomes for periodic model recalibration and continuous improvement 
+in prediction accuracy. 
 
 ---
 
@@ -124,7 +126,7 @@ bottlenecks
 
 ## 🎯 Current Focus
 
-- 🚀 High-performance backend systems & Java Development 
+- 🚀 High-performance backend systems, distributed systems
 - 📊 Quant + ML systems  
 
 ---
