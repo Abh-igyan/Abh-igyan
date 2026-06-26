@@ -34,7 +34,7 @@
 
 ## 🚀 Projects
 
-### Vahini: Distributed Benchmarking & Hosting Platform [Repo](https://github.com/Abh-igyan/Distributed-Benchmarking-Hosting-Platform) | [Live Demo](http://vahini.duckdns.org:5173/)
+### Vahini: Distributed Benchmarking & Hosting Platform [Repo](https://github.com/Abh-igyan/Distributed-Benchmarking-Hosting-Platform) | [Live Demo](http://43.204.202.86:5173/)
 📌 FastAPI, Go, Docker, AWS EC2, Postgres RDS
 
 - Designed and deployed a distributed trading-engine evaluation platform on AWS, supporting automated
@@ -50,7 +50,7 @@ benchmark analytics.
 
 ---
 
-### ParivahanSaathi — AI Traffic Planning Engine [Repo](https://github.com/Abh-igyan/Distributed-Benchmarking-Hosting-Platform) | [Live Demo](http://vahini.duckdns.org:5173/)
+### ParivahanSaathi — AI Traffic Planning Engine [Repo](https://github.com/Abh-igyan/IRP-Incident-Response-Planner) | [Live Demo](http://13.203.216.205:8000/##/)
 📌 FastAPI, CatBoost, OSMnx, NetworkX, AWS, Mappls APIs   
 
 - Built a production-ready ML-driven traffic intelligence system for Bengaluru using 8K+ traffic incidents, enabling congestion 
