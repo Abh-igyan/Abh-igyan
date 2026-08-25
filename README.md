@@ -34,7 +34,7 @@
 
 ## 🚀 Projects
 
-### Vahini: Distributed Benchmarking & Hosting Platform [Repo](https://github.com/Abh-igyan/Distributed-Benchmarking-Hosting-Platform) | [Live Demo](http://43.204.202.86:5173/)
+### Vahini: Distributed Benchmarking & Hosting Platform [Repo](https://github.com/Abh-igyan/Distributed-Benchmarking-Hosting-Platform) | [Live Demo](https://trading-system-benchmarking-hosting.vercel.app/)
 📌 FastAPI, Go, Docker, AWS EC2, Postgres RDS
 
 - Designed and deployed a distributed trading-engine evaluation platform on AWS, supporting automated
