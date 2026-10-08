@@ -14,8 +14,21 @@ CSE Undergraduate at NIT Silchar (2024–2028) · Backend Engineering · Distrib
 <a href="mailto:abhigyanph@gmail.com">Email</a> ·
 <a href="https://www.linkedin.com/in/abhigyan-tiwari-570536314/">LinkedIn</a> ·
 <a href="https://codeforces.com/profile/AbHiGyan_NoBC">Codeforces</a> ·
-<a href="https://leetcode.com/u/AbHiGyan-NoBC/">LeetCode</a>
+<a href="https://leetcode.com/u/AbHiGyan-NoBC/">LeetCode</a> ·
+<a href="https://portfolio-six-peach-27.vercel.app" target="_blank">Portfolio</a>
 </p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abh-igyan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abh-igyan&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abh-igyan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages">
+</p>
+
+<br>
 
 ## Currently working on
 
@@ -30,15 +43,19 @@ An autonomous agent that detects payment failures and checkout abandonment, pred
 **Benchmarked on 5,000 journeys — recovered ₹3.65 Cr of ₹5.00 Cr at risk, ₹45.5L incremental lift.**
 `FastAPI` `CatBoost` `Razorpay APIs` `SQLite` `LLM`
 
-**[Vahini](https://github.com/Abh-igyan/Distributed-Benchmarking-Hosting-Platform)** — distributed trading-system benchmarking platform ([demo](https://trading-system-benchmarking-hosting.vercel.app/))
+**[Vahini](https://github.com/Abh-igyan/Distributed-Benchmarking-Hosting-Platform)** — distributed trading-system benchmarking platform ([Live Demo](https://trading-system-benchmarking-hosting.vercel.app/))
 A distributed platform for evaluating trading engines: automated correctness validation, a Go-based load-generation framework, and a sandboxed Docker + gVisor execution pipeline for untrusted participant code, orchestrated via FastAPI worker-coordinator architecture.
 **Sustains 1.3K+ TPS under 1,000 concurrent traders.**
 `FastAPI` `Go` `Docker` `gVisor` `AWS EC2/RDS` `PostgreSQL`
 
-**[ParivahanSaathi](https://github.com/Abh-igyan/IRP-Incident-Response-Planner)** — AI/ML traffic intelligence and routing ([demo](https://irp-incident-response-planner.vercel.app/))
+**[ParivahanSaathi](https://github.com/Abh-igyan/IRP-Incident-Response-Planner)** — AI/ML traffic intelligence and routing ([Live Demo](https://irp-incident-response-planner.vercel.app/))
 A city-scale traffic intelligence system for Bengaluru: a multi-stage inference pipeline for incident-based closure prediction, impact scoring, and diversion routing, validated in real time against Mappls traffic-aware APIs.
 **8K+ incidents, 56 partitioned OSM graphs, 94% memory reduction (4.8 GB → 280 MB), sub-150 ms warm route generation.**
 `FastAPI` `CatBoost` `OSMnx` `NetworkX` `AWS` `Mappls APIs`
+
+**[After Loss](https://github.com/Abh-igyan/AfterLoss)** — serverless asset discovery platform
+A rules-driven platform to discover and claim a deceased person's financial assets from documents. Automated asset routing via **AWS Textract**, Step Functions, and Lambda. Includes Cognito/Cedar authorization, PII masking, and LLM-based cited assistance (27/27 citations).
+`AWS Textract` `DynamoDB` `React` `Cedar` `LLM`
 
 ## Other builds
 
@@ -57,9 +74,11 @@ Also working with: REST APIs, CatBoost, LLMs, SQLite, distributed systems, perfo
 
 ## Open source
 
-- **[Layer5](https://github.com/layer5io)** — ongoing contributions to documentation and UI
-- **Apothesis** — merged PR resolving cross-platform build failures on Windows
-- **FOSSOLOGY (Atarashi)** — accepted PR fixing runtime crashes in the TF-IDF agent via exception handling in Nirjas-based comment extraction
+- **[Layer5](https://github.com/layer5io)** — ongoing contributions to documentation and UI. Logged contributions to the community and ecosystem.
+- **Apothesis** — merged PR resolving critical cross-platform build failures on Windows. Fixed CMake toolchain compatibility and enforced C++17 requirements.
+- **FOSSOLOGY (Atarashi)** — accepted PR fixing runtime crashes in the TF-IDF agent via exception handling in Nirjas-based comment extraction.
+- **OpenCode IIITA** — contributed 31 merged PRs across 13+ repositories. Implemented algorithmic solutions, performed dataset EDA with imputation, and solved competitive coding challenges.
+- **CSS NITS** — contributed to ComplaintBox_CPP by eradicating database vulnerabilities to protect the database, optimizing compile times by removing redundant headers, and improving the CLI menu layout.
 
 ## Achievements
 
@@ -69,6 +88,15 @@ Also working with: REST APIs, CatBoost, LLMs, SQLite, distributed systems, perfo
 - 2nd Prize, Arbitrage Arena 2026, Indian Institute of Science
 - 3rd Position, IISc Honour Code Hackathon
 - Rank 2,245, Meta HackerCup Round 1 2025
+
+<br>
+
+<!-- CONTRIBUTION SNAKE ANIMATION (Will render after Action runs) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abh-igyan/Abh-igyan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abh-igyan/Abh-igyan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abh-igyan/Abh-igyan/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
 ---
 
