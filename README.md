@@ -56,6 +56,7 @@
 <summary><b>View More Projects...</b></summary>
 <br>
 
+- **[PromptVox](https://github.com/Abh-igyan/PromptVox)** — Universal developer voice layer with zero-lag bilingual (Hinglish ➔ Latin) speech-to-code transcription for AI coding agents.
 - **[TitanDB](https://github.com/Abh-igyan/TitanDB)** — Bitcask-inspired KV store in C++ with O(1) hash-index lookups.
 - **[TrafficTalk](https://github.com/Abh-igyan/TrafficTalk-The-AI-Network-Monitoring-Assistant)** — Real-time network analysis with a Groq+LLaMA3 hybrid agent.
 - **[dock-agent](https://github.com/Abh-igyan/dock-agent)** — Autonomous agent loop to generate, build, and self-heal Dockerfiles via LLMs.
